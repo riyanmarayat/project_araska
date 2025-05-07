@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "ba"
+    },
+    {
+      "id": 1,
+      "name": "ca"
+    },
+    {
+      "id": 2,
+      "name": "da"
+    },
+    {
+      "id": 3,
+      "name": "dha"
+    },
+    {
+      "id": 4,
+      "name": "ga"
+    },
+    {
+      "id": 5,
+      "name": "ha"
+    },
+    {
+      "id": 6,
+      "name": "ja"
+    },
+    {
+      "id": 7,
+      "name": "ka"
+    },
+    {
+      "id": 8,
+      "name": "la"
+    },
+    {
+      "id": 9,
+      "name": "ma"
+    },
+    {
+      "id": 10,
+      "name": "na"
+    },
+    {
+      "id": 11,
+      "name": "nga"
+    },
+    {
+      "id": 12,
+      "name": "nya"
+    },
+    {
+      "id": 13,
+      "name": "pa"
+    },
+    {
+      "id": 14,
+      "name": "ra"
+    },
+    {
+      "id": 15,
+      "name": "sa"
+    },
+    {
+      "id": 16,
+      "name": "ta"
+    },
+    {
+      "id": 17,
+      "name": "tha"
+    },
+    {
+      "id": 18,
+      "name": "wa"
+    },
+    {
+      "id": 19,
+      "name": "ya"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
